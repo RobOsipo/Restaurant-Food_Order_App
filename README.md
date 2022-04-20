@@ -1,3 +1,3 @@
-# A interactive online food ordering application
+# An interactive online food order & delivery application
 
 
